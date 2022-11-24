@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 💫 About Me: <br>Hi, I'm Gustavo Aquino, a system development student, currently <br>learning python, really into data science and analytics, although,<br>everything about development fascinates me.
 
 
